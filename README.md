@@ -4,7 +4,7 @@
 
 Preparing an Endpoint in Flask that can display a graph of a quadratic function.
 The endpoint takes the following parameters:
-- a, b, c: equation parameters y = ax2+ bx + c
+- a, b, c: equation parameters y = ax^2+ bx + c
 - xmin, xmax, ymin, ymax: limit values of the graph area to be displayed
 
 ## Instructions
